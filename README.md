@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+# Create a list of things you need so you don’t forget
+
+//For study 
+
+https://karadzabayezit.github.io/Travel-List/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
